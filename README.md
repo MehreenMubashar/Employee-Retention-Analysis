@@ -16,7 +16,7 @@ This dataset contains employee data, including features such as satisfaction lev
 # Methodology
 Our approach involves exploratory data analysis (EDA) to gain insights into the dataset, followed by feature engineering and selection to prepare the data for predictive modeling. We will employ machine learning algorithms to build predictive models that can forecast employee turnover and identify key drivers contributing to attrition.
 
-#Project Structure
+# Project Structure
 data: Contains the dataset used for analysis.
 notebooks: Jupyter notebooks detailing the data analysis, modeling, and visualization steps.
 reports: Generated reports, visualizations, and model performance summaries.
